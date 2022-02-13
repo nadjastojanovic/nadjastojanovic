@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi! I'm Nađa 🌱
+
+### 📚 I'm a Computer Engineering student at Lehigh University.
+
+### 👩🏻‍💻 I'm currently learning React Native. Check out some of my projects ↓
