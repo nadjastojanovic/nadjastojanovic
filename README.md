@@ -8,17 +8,13 @@
 - Graduating in May 2025.
 
 ### 👩🏻‍💻 I am proficient in multiple programming languages and frameworks.
-- Java
-- Python
-- C/C++
+- Java, Python, C/C++
 - HTML & CSS
 - JavaScript: jQuery, ReactJS & ReactNative, ThreeJS
 
 ### 🧠 I am experienced in several Machine Learning libraries and tools.
-- Keras
-- Pandas
-- PyTorch
-- Numpy
+- Keras, PyTorch
+- Pandas, Numpy
 - TensorFlow & TensorBoard
 
 ---
