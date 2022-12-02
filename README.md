@@ -1,20 +1,26 @@
-<!--
-**nadjastojanovic/nadjastojanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! I'm Nada Stojanovic 🌱 About me ↓
 
-Here are some ideas to get you started:
+### 📚 I am a Computer Science & Engineering student at Lehigh University.
+- Focus in ML/AI and Data Science.
+- Undergraduate Teaching Assistant in the Department of Computer Science & Engineering.
+  - ENGR010 - Applied Engineering Computer Methods
+  - CSE007 - Introduction to Programming
+- Graduating in May 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 I am proficient in multiple programming languages and frameworks.
+- Java
+- Python
+- C/C++
+- HTML & CSS
+- JavaScript: jQuery, ReactJS & ReactNative, ThreeJS
 
-## Hi! I'm Nađa 🌱
+### 🧠 I am experienced in several Machine Learning libraries and tools.
+- Keras
+- Pandas
+- PyTorch
+- Numpy
+- TensorFlow & TensorBoard
 
-### 📚 I'm a Computer Engineering student at Lehigh University.
+---
 
-### 👩🏻‍💻 I'm currently learning React Native. Check out some of my projects ↓
+### 👾 I am currently looking for a summer internship in AI/ML and Data Science. Check out some of my work below ↓
