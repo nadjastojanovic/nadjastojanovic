@@ -1,19 +1,17 @@
-## Hi! I'm Nada Stojanovic 🌱 About me ↓
+## Hi! I'm Nađa Stojanović 🌱 About me ↓
 
-### 📚 I am a Computer Science student at Lehigh University.
-- Graduating in May 2025
-- Focus in Biomedical Informatics and Health Data Science
-- Head Teaching Assistant for Applied Engineering Computer Methods (ENGR010)
+### 🎓 B.Sc. in Computer Science from Lehigh University
+### 🔍 Open to remote or on-site roles | Montenegro-based 🇲🇪
 
-### 👩🏻‍💻 I am proficient in multiple programming languages and frameworks.
-- Java, Python, C/C++, Rust, R
-- HTML, CSS, JavaScript (jQuery, ReactJS, React Native)
+### 👩🏻‍💻 I build responsive, accessible, and performant web applications
+- Front-End: React, TypeScript, HTML5, CSS3, Tailwind CSS, Material UI
+- Tools & Build: Vite, Webpack, npm, Yarn, Git
+- Design & UX: Figma, Framer Motion, Accessibility (WCAG)
+- Back-End: Node.js, Express, Java, Spring Boot
 
-### 🧠 I am experienced in several Machine Learning libraries and tools.
-- Keras, PyTorch
-- TensorFlow & TensorBoard
-- Vowpal Wabbit
-
----
-
+### 🧠 I leverage ML & data analysis to drive insights (e.g., in my neuroscience research):
+- Languages & Libraries: Python, R, NumPy, Pandas, SciPy
+- ML Frameworks: Scikit-learn, Keras, PyTorch, TensorFlow, Vowpal Wabbit
+- Analysis & Visualization: Matplotlib, Seaborn, Statistical Analysis, Experimental Design
+  
 ### 👾 Check out some of my work below ↓
