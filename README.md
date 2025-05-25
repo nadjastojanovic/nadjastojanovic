@@ -12,6 +12,6 @@
 ### 🧠 I leverage ML & data analysis to drive insights (e.g., in my neuroscience research):
 - Languages & Libraries: Python, R, NumPy, Pandas, SciPy
 - ML Frameworks: Scikit-learn, Keras, PyTorch, TensorFlow, Vowpal Wabbit
-- Analysis & Visualization: Matplotlib, Seaborn, Statistical Analysis, Experimental Design
+- Analysis & Visualization: AWS, TensorBoard, Statistical Analysis, Experimental Design
   
 ### 👾 Check out some of my work below ↓
