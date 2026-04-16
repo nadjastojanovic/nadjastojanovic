@@ -1,17 +1,28 @@
-## Hi! I'm Nađa Stojanović 🌱 About me ↓
+## Hi! I'm Nađa Stojanović 🌱
 
-### 🎓 B.Sc. in Computer Science from Lehigh University
-### 🔍 Open to remote or on-site roles | Montenegro-based 🇲🇪
+🧠  **MPhil in Cognitive Neurosciences** · University of Cambridge, UK
 
-### 👩🏻‍💻 I build responsive, accessible, and performant web applications
-- Front-End: React, TypeScript, HTML5, CSS3, Tailwind CSS, Material UI
-- Tools & Build: Vite, Webpack, npm, Yarn, Git
-- Design & UX: Figma, Framer Motion, Accessibility (WCAG)
-- Back-End: Node.js, Express, Java, Spring Boot
+👩🏻‍💻  **B.Sc. in Computer Science** · Lehigh University, USA
 
-### 🧠 I leverage ML & data analysis to drive insights (e.g., in my neuroscience research):
-- Languages & Libraries: Python, R, NumPy, Pandas, SciPy
-- ML Frameworks: Scikit-learn, Keras, PyTorch, TensorFlow, Vowpal Wabbit
-- Analysis & Visualization: AWS, TensorBoard, Statistical Analysis, Experimental Design
-  
-### 👾 Check out some of my work below ↓
+🔍  Open to **research assistant** positions from **June 2026**
+
+***
+
+#### 🗣️ I study how the brain processes language 
+My current work combines **EEG**, multivariate temporal response function (**mTRF**) 
+modelling, and **computational linguistics** to investigate how **bilinguals** 
+encode linguistic features of speech under **selective attention**.
+
+***
+
+#### 🛠️ Some of the tools I work with:
+- **Programming:** Python, MATLAB, R
+- **Neuroimaging:** EEGLAB, mTRF Toolbox, nilearn, AllenSDK
+- **Linguistics & NLP:** Montreal Forced Aligner, Praat, PanPhon, spaCy, Stanza, LLMs
+
+***
+
+#### 👀 Want to see more?
+→ Check out my [CV](https://nadjastojanovic.dev/CV_NadaStojanovic.pdf)</br>
+→ Take a look at my [website](https://nadjastojanovic.dev)</br>
+→ Peruse some of my work below ↓
