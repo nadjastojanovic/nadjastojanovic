@@ -23,6 +23,6 @@ encode linguistic features of speech under **selective attention**.
 ***
 
 #### 👀 Want to see more?
-→ Check out my [CV](https://nadjastojanovic.dev/CV_NadaStojanovic.pdf)</br>
-→ Take a look at my [website](https://nadjastojanovic.dev)</br>
+→ Check out my <a href="https://nadjastojanovic.dev/CV_NadaStojanovic.pdf" target="_blank" rel="noopener noreferrer">CV</a></br>
+→ Take a look at my <a href="https://nadjastojanovic.dev" target="_blank" rel="noopener noreferrer">website</a></br>
 → Peruse some of my work below ↓
