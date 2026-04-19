@@ -15,13 +15,6 @@ encode linguistic features of speech under **selective attention**.
 
 ***
 
-#### 🛠️ Some of the tools I work with:
-- **Programming:** Python, MATLAB, R
-- **Neuroimaging:** EEGLAB, mTRF Toolbox, nilearn, AllenSDK
-- **Linguistics & NLP:** Montreal Forced Aligner, Praat, PanPhon, spaCy, Stanza, LLMs
-
-***
-
 #### 👀 Want to see more?
 → Check out my <a href="https://nadjastojanovic.dev/CV_NadaStojanovic.pdf" target="_blank" rel="noopener noreferrer">CV</a></br>
 → Take a look at my <a href="https://nadjastojanovic.dev" target="_blank" rel="noopener noreferrer">website</a></br>
