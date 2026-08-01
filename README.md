@@ -1,15 +1,15 @@
 ## Hi! I'm Nađa Stojanović 🌱
 
+💼  **Research Assistant, Plasticity Lab** · MRC Cognition and Brain Sciences Unit, University of Cambridge, UK
+
 🧠  **MPhil in Cognitive Neurosciences** · University of Cambridge, UK
 
 👩🏻‍💻  **B.Sc. in Computer Science** · Lehigh University, USA
 
-🔍  Open to **research assistant** positions from **June 2026**
-
 ***
 
-#### 🗣️ I study how the brain processes language 
-My current work combines **EEG**, multivariate temporal response function (**mTRF**) 
+#### 🗣️ I am interested in how the brain processes language 
+My MPhil project combined **EEG**, multivariate temporal response function (**mTRF**) 
 modelling, and **computational linguistics** to investigate how **bilinguals** 
 encode linguistic features of speech under **selective attention**.
 
